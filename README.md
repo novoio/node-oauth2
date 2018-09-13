@@ -1,9 +1,13 @@
 # NodeJS - oAuth 2.0
 This is a simple NodeJS backend demonstrating the authentication of [Meetup](https://www.meetup.com/) and [LinkedIn](https://linkedin.com/) via **oAuth 2.0**.
 
-### Main libraries
+### Main `npm` libraries
+* `passport`
 * `passport-linkedin-oauth2`
 * `passport-oauth2-meetup`
+* `dotenv`
+* `express`
+* `express-session`
 
 ## Installation
 1. Download or clone this repo.
